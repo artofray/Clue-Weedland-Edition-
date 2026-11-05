@@ -1,0 +1,6 @@
+{
+  "name": "Weedville Clue Mystery",
+  "description": "An immersive, hilarious, and strategic Weedland/Petlandia mystery game inspired by Clue. Solve the mystery of Johnny Potseed's missing stash with your favorite heroes and corporate rivals!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
